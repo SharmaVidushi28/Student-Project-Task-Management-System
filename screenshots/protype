@@ -1,1 +1,24 @@
+prototype:
 
+The Student Project Task Management System is a web-based application designed to help student development teams efficiently manage their academic projects. It provides a centralized platform where users can create projects, assign tasks, set deadlines, track progress, and monitor team activities.
+
+Key Features:
+
+* User Authentication (Login/Register)
+* Project Creation and Management
+* Task Assignment
+* Deadline Tracking
+* Progress Monitoring Dashboard
+* Status Updates (Pending, In Progress, Completed)
+* Notifications and Reminders
+
+Technologies Used:
+
+* HTML
+* CSS
+* JavaScript
+* MySQL Database
+
+Objective:
+
+To improve team collaboration, increase productivity, and ensure timely completion of student projects through effective task management and progress tracking. 🚀
